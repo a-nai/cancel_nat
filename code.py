@@ -1,5 +1,9 @@
 import time
 import numpy as np
+import pickle
+
+drugs2= pickle.load(open("drugs2.pkl","rb"));
+cancelmol = pickle.load(open("cancelmol.pkl","rb"));
 
 molecules=['Apigenin', 'Chaetocin', 'Chrysin', 'Curcumin', 'Epigallocatechin gallate (EGCG)', 'Luteolin', 'Myricetin', 'Quercetin', 'Resveratrol', 'Wogonin', 'Brusatol', 'Piperlongumine', 'Trigonelline', 'Pentyl isothiocyanate (PEITC)', 'Pleurotin', 'Plumbagin', 'EM23', 'Parthenolid', 'Sulforaphane', 'Melatonin']
 
@@ -248,8 +252,10 @@ for u in range(len(cancelmol)):
 
 for k in range(len(cancersgene)): print(len(cancersgene[k]))
 
-drugs1gene
-drugs2
+drugs1gene= pickle.load(open("drugs1gene.pkl","rb"));
+     
+drugs2= pickle.load(open("drugs2.pkl","rb"));
+
 
 output = open('drugs2.pkl', 'wb')
 pickle.dump(drugs2, output)
