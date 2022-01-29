@@ -164,6 +164,7 @@ output.close()
 cancersgene = pickle.load(open("cancersgene.pkl","rb"));
 
 import re
+import numpy
 
 i7cm=[[] for i in range(len(cancelmol))];
 for u in range(len(cancelmol)):#len(drugA)
