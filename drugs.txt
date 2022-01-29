@@ -1,0 +1,286 @@
+>>> for u in range(len(drugs2)):
+...  print(drugs2[u],u)
+... 
+Abemaciclib 0
+Abiraterone 1
+Acalabrutinib 2
+Aclarubicin 3
+Afatinib 4
+Aflibercept 5
+Aldesleukin 6
+Alectinib 7
+Alemtuzumab 8
+Alitretinoin 9
+Alpelisib 10
+Altretamine 11
+Aminolevulinic Acid 12
+Amivantamab 13
+Amrubicin 14
+Amsacrine 15
+Anastrozole 16
+Apalutamide 17
+Arsenic Trioxide 18
+Asparaginase 19
+Atezolizumab 20
+Avapritinib 21
+Avelumab 22
+Axicabtagene Ciloleucel 23
+Axitinib 24
+Azacitidine 25
+BCG Vaccine 26
+Belantamab Mafodotin 27
+Belinostat 28
+Belotecan 29
+Bendamustine 30
+Bevacizumab 31
+Bexarotene 32
+Bicalutamide 33
+Binimetinib 34
+Bleomycin 35
+Blinatumomab 36
+Bortezomib 37
+Bosutinib 38
+Brentuximab vedotin 39
+Brexucabtagene Autoleucel 40
+Brigatinib 41
+Buserelin 42
+Busulfan 43
+Cabazitaxel 44
+Cabozantinib 45
+Calaspargase Pegol 46
+Capecitabine 47
+Capmatinib 48
+Carboplatin 49
+Carfilzomib 50
+Carmofur 51
+Carmustine 52
+Carmustine Implant 53
+Cemiplimab 54
+Ceritinib 55
+Cetuximab 56
+Chlorambucil 57
+Chlormethine 58
+Cisplatin 59
+Cladribine 60
+Clofarabine 61
+Cobimetinib 62
+Copanlisib 63
+Crizotinib 64
+Cyclophosphamide 65
+Cytarabine 66
+Dabrafenib 67
+Dacarbazine 68
+Dacomitinib 69
+Dactinomycin 70
+Daratumumab 71
+Daratumumab, Hyaluronidase 72
+Darolutamide 73
+Dasatinib 74
+Daunorubicin 75
+Daunorubicin, Cytarabine Liposome 76
+Decitabine 77
+Decitabine, Cedazuridine 78
+Degarelix 79
+Denileukin Diftitox 80
+Denosumab 81
+Dexamethasone 82
+Dexrazoxane 83
+Diethylstilbestrol 84
+Dinutuximab 85
+Docetaxel 86
+Dostarlimab 87
+Doxorubicin 88
+Doxorubicin Liposome 89
+Durvalumab 90
+Duvelisib 91
+Edotreotide 92
+Elotuzumab 93
+Emapalumab 94
+Enasidenib 95
+Encorafenib 96
+Enfortumab Vedotin 97
+Entrectinib 98
+Enzalutamide 99
+Epirubicin 100
+Erdafitinib 101
+Eribulin 102
+Erlotinib 103
+Estramustine 104
+Etoposide 105
+Everolimus 106
+Exemestane 107
+Fedratinib 108
+Fludarabine 109
+Fluorouracil 110
+Fluoxymesterone 111
+Flutamide 112
+Fotemustine 113
+Fulvestrant 114
+Gefitinib 115
+Gemcitabine 116
+Gemtuzumab Ozogamicin 117
+Gilteritinib 118
+Glasdegib 119
+Goserelin 120
+Histamine dihydrochloride 121
+Histrelin 122
+Hydroxycarbamide 123
+Ibritumomab Tiuxetan 124
+Ibrutinib 125
+Idarubicin 126
+Idecabtagene Vicleucel 127
+Idelalisib 128
+Ifosfamide 129
+Imatinib 130
+Imiquimod 131
+Infigratinib 132
+Inotuzumab Ozogamicin 133
+Interferon Alfa-2b 134
+Iobenguane 135
+Ipilimumab 136
+Irinotecan 137
+Irinotecan Liposome 138
+Isatuximab 139
+Ivosidenib 140
+Ixabepilone 141
+Ixazomib 142
+Lanreotide 143
+Lapatinib 144
+Larotrectinib 145
+Lenalidomide 146
+Lenvatinib 147
+Letrozole 148
+Leuprolide 149
+Lisocabtagene Maraleucel 150
+Lomustine 151
+Loncastuximab Tesirine 152
+Lorlatinib 153
+Lu 177-Dotatate 154
+Lurbinectedin 155
+Margetuximab 156
+Medroxyprogesterone 157
+Megestrol 158
+Melphalan 159
+Melphalan Flufenamide 160
+Mercaptopurine 161
+Methotrexate 162
+Midostaurin 163
+Mifamurtide 164
+Mitomycin 165
+Mitoxantrone 166
+Mobocertinib 167
+Mogamulizumab 168
+Moxetumomab Pasudotox 169
+Nab-Paclitaxel 170
+Naxitamab 171
+Necitumumab 172
+Nelarabine 173
+Neratinib 174
+Nilotinib 175
+Nilutamide 176
+Nintedanib 177
+Niraparib 178
+Nivolumab 179
+Obinutuzumab 180
+Ofatumumab 181
+Olaparib 182
+Olaratumab 183
+Omacetaxine Mepesuccinate 184
+Osimertinib 185
+Oxaliplatin 186
+Paclitaxel 187
+Padeliporfin 188
+Palbociclib 189
+Panitumumab 190
+Panobinostat 191
+Pazopanib 192
+Pegaspargase 193
+Peginterferon Alfa-2b 194
+Pembrolizumab 195
+Pemetrexed 196
+Pemigatinib 197
+Pentostatin 198
+Pertuzumab 199
+Pertuzumab, Trastuzumab, Hyaluronidase 200
+Pipobroman 201
+Pirarubicin 202
+Pixantrone 203
+Polatuzumab Vedotin 204
+Polyestradiol Phosphate 205
+Pomalidomide 206
+Ponatinib 207
+Porfimer 208
+Pralatrexate 209
+Pralsetinib 210
+Prednisolone 211
+Prednisone 212
+Procarbazine 213
+Racotumomab 214
+Radium 223 Dichloride 215
+Raltitrexed 216
+Ramucirumab 217
+Ranimustine 218
+Realgar-Indigo Naturalis Formulation 219
+Regorafenib 220
+Relugolix 221
+Ribociclib 222
+Ripretinib 223
+Rituximab 224
+Rituximab, Hyaluronidase 225
+Romidepsin 226
+Rucaparib 227
+Ruxolitinib 228
+Sacituzumab Govitecan 229
+Selinexor 230
+Selpercatinib 231
+Sipuleucel-T 232
+Sonidegib 233
+Sorafenib 234
+Sotorasib 235
+Streptozocin 236
+Sunitinib 237
+Tafasitamab 238
+Tagraxofusp 239
+Talazoparib 240
+Talimogene Laherparepvec 241
+Tamoxifen 242
+Tazemetostat 243
+Tegafur, Gimeracil, Oteracil 244
+Tegafur, Uracil 245
+Temoporfin 246
+Temozolomide 247
+Temsirolimus 248
+Tepotinib 249
+Thalidomide 250
+Thiotepa 251
+Tioguanine 252
+Tisagenlecleucel 253
+Tivozanib 254
+Topotecan 255
+Toremifene 256
+Trabectedin 257
+Trametinib 258
+Trastuzumab 259
+Trastuzumab Deruxtecan 260
+Trastuzumab Emtansine 261
+Trastuzumab, Hyaluronidase 262
+Tretinoin 263
+Trifluridine, Tipiracil 264
+Triptorelin 265
+Trofosfamide 266
+Tucatinib 267
+Umbralisib 268
+Valrubicin 269
+Vandetanib 270
+Vemurafenib 271
+Venetoclax 272
+Vinblastine 273
+Vincristine 274
+Vincristine Liposome 275
+Vindesine 276
+Vinflunine 277
+Vinorelbine 278
+Vismodegib 279
+Vorinostat 280
+Zanubrutinib 281
+>>> 
